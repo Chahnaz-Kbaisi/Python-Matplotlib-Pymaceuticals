@@ -1,14 +1,14 @@
 # Matplotlib - The Power of Plots
 
-The [analysis](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/tree/main/Pymaceuticals) described here was performed for Pymaceuticals Inc., a San Diego-based pharmaceutical company specializing in anti-cancer pharmaceuticals, to clarrify the efficacy of several skin cancer drugs on the size of tumors in mice. 
+The [analysis](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/tree/main/Pymaceuticals) described here was performed for Pymaceuticals Inc., a San Diego-based pharmaceutical company specializing in anti-cancer treatments, to clarify the efficacy of several skin cancer drugs on the size of tumors in mice. 
 
 The purpose of this analysis was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. A technical report, which included tables and figures showing relative responses, was generated and delievered to the executive team with a top-level summary of the results.
 
-[Pymaceuticals jupyter notebook](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Pymaceuticals/pymaceuticals.ipynb) analysis included the following: 
+[Pymaceuticals jupyter notebook](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Pymaceuticals/pymaceuticals.ipynb) analysis included the following steps: 
 
-* The analysis, checked the data for any mouse ID with duplicate time points and removed any data associated with that mouse ID.
+* Checked the data for any mouse ID with duplicate time points and removed any data associated with that mouse ID.
 
-* Then cleaned data for the remaining steps.
+* Cleaned data for the remaining steps.
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
@@ -19,15 +19,15 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. 
 
-* Calculated the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
+* Calculated the quartiles and IQR and quantitatively determined if there are any potential outliers across all four treatment regimens.
 
-* Using Matplotlib, generated a [box and whisker plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/final_tumor_reg_box.png) of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+* Using Matplotlib, generated a [box and whisker plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/final_tumor_reg_box.png) of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
 
-* Selected a mouse that was treated with Capomulin and generate a [line plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/capomulin_l509_line.png) of tumor volume vs. time point for that mouse.
+* Selected a mouse that was treated with Capomulin and generated a [line plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/capomulin_l509_line.png) of tumor volume vs. time point for that mouse.
 
 * Generated a [scatter plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/tumor_weight_scatter.png) of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
-* Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Ploted the [linear regression](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/linear_regression.png) model on top of the previous scatter plot.
+* Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the [linear regression](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/linear_regression.png) model on top of the previous scatter plot.
 
 
 ## Observations and Insights
