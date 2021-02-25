@@ -32,6 +32,8 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 * Selected a mouse that was treated with Capomulin and generated a [line plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/capomulin_l509_line.png) of tumor volume vs. time point for that mouse.
 
+![Line Plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/capomulin_l509_line.png)
+
 * Generated a [scatter plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/tumor_weight_scatter.png) of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plotted the [linear regression](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/linear_regression.png) model on top of the previous scatter plot.
