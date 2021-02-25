@@ -1,5 +1,5 @@
 # Matplotlib - The Power of Plots
-
+***
 The [analysis](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/tree/main/Pymaceuticals) described here was performed for Pymaceuticals Inc., a San Diego-based pharmaceutical company specializing in anti-cancer treatments, to clarify the efficacy of several skin cancer drugs on the size of tumors in mice. 
 
 The purpose of this analysis was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. A technical report, which included tables and figures showing relative responses, was generated and delievered to the executive team with a top-level summary of the results.
@@ -31,7 +31,7 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 
 ## Observations and Insights
-
+***
 1. Capomulin and Ramicane both had a greater effect on final tumor volume than Infubinol and Ceftamin, and the data for them was less dispersed, which means there was more variability. Only Infubinol had an outlier with drastic tumor reduction, however this does not indicate drug efficacy. Both Capomulin and Ceftamin are negatively skewed while Infubinal and Ramicane are symmetrical in their data distribution.  
 
 2. For Capomulin it seems drug efficacy is dependent on building up to a certain dosage, such that at day 20 the tumor volume decreased drastically over the next 4 to 5 days. Then, a second phase of tumor reduction occurs thereafter. From this individual mouse it looks like the effects of Capomulin are quite rapid once it reaches the necessary dose in the body. 
