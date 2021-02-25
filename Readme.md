@@ -20,6 +20,7 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 * Generated a [pie plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pie_plot_pandas.png) using both Pandas's `DataFrame.plot()` and [Matplotlib's](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pie_plot_pyplot.png) `pyplot` that shows the distribution of female or male mice in the study.
 
+![Pie Plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pie_plot_pandas.png)
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. 
 
