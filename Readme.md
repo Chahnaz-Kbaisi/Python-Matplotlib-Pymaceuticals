@@ -28,6 +28,8 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 * Using Matplotlib, generated a [box and whisker plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/final_tumor_reg_box.png) of the final tumor volume for all four treatment regimens and highlighted any potential outliers in the plot by changing their color and style.
 
+![Whisker Plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/final_tumor_reg_box.png)
+
 * Selected a mouse that was treated with Capomulin and generated a [line plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/capomulin_l509_line.png) of tumor volume vs. time point for that mouse.
 
 * Generated a [scatter plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/tumor_weight_scatter.png) of mouse weight versus average tumor volume for the Capomulin treatment regimen.
