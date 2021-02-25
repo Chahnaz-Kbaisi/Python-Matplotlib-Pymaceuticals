@@ -16,6 +16,8 @@ The purpose of this analysis was to compare the performance of Pymaceuticals' dr
 
 * Generated a [bar plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pandas_bar_plot.png) using both Pandas's `DataFrame.plot()` and [Matplotlib's](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pyplot_bar_plot.png) `pyplot` that shows the number of total mice for each treatment regimen throughout the course of the study.
 
+![Bar Plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pandas_bar_plot.png)
+
 * Generated a [pie plot](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pie_plot_pandas.png) using both Pandas's `DataFrame.plot()` and [Matplotlib's](https://github.com/Chahnaz-Kbaisi/Python-Matplotlib-Pymaceuticals/blob/main/Images/pie_plot_pyplot.png) `pyplot` that shows the distribution of female or male mice in the study.
 
 
